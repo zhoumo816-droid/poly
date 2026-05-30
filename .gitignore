@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+monitor_log.csv
+.env
